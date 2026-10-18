@@ -126,6 +126,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-rpc-reader-linux](https://github.com/GiveMeTheButter/fluxer-rpc-reader-linux) - Shows (most) Discord RPC apps in your Fluxer status using only your token.
 - [fluxer.name](https://fluxer.name) - Claim a public profile page for your Fluxer identity: avatar, status, bio, badges, links, and socials in one link for your bio.
 - [Fluxer-Spotify](https://github.com/KetaLP-hub/Fluxer-Spotify) - Shows your Spotify now-playing, playlist, top artist and listening time as a rotating Fluxer status; Windows exe that runs hidden in the background.
+- [Scratch For Fluxer](https://scratch.fluxer.my/) - Drag blocks like you would in Scratch, read the real Python they write, then run your bot. Made for people learning the Fluxer bot API with fluxer.py.
 
 ## Clients
 
