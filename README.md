@@ -89,7 +89,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Fluxer++](https://github.com/Jw4Lk3r16/FluxerPP) - Native C++ SDK for building high‑performance Fluxer bots.
 
-## Bots
+### Scratch
+- [Scratch For Fluxer](https://scratch.fluxer.my) - Drag blocks like you would in Scratch, read the real Python they write, then run your bot. Made for people learning the Fluxer bot API with Fluxer.py.
+
+### Bots
 
 - [Fluxy](https://docs.fluxy.gay/) - Everything you need to run a safe, well-organized Fluxer server
 - [Bloo](https://bloo-bot.xyz/) - Powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more
